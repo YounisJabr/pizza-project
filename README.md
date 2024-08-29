@@ -4,4 +4,4 @@
 ### now it contin the coures bicse function wtich is 
 ### 1-add pizza 
 ### 2-delete pizza
-#### 3- fetches the data from the database and displays it on the screen
+### 3- fetches the data from the database and displays it on the screen
